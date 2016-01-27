@@ -2,4 +2,5 @@
 *.pyc
 MY_DATA.csv
 food_data.csv
+.DS_Store
 twitter_authentication.py
