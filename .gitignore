@@ -1,4 +1,5 @@
 *~
 *.pyc
-MY_DATA.tsv
+MY_DATA.csv
+food_data.csv
 twitter_authentication.py
